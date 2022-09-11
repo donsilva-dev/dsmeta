@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.service;
+package com.devsuperior.dsmeta.services;
 
 import java.time.Instant;
 import java.time.LocalDate;
